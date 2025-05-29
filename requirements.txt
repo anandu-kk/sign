@@ -95,3 +95,9 @@ ultralytics-thop==2.0.14
 urllib3==2.2.3
 virtualenv==20.29.3
 watchdog==6.0.0
+streamlit
+streamlit-webrtc
+mediapipe
+opencv-python-headless
+pillow
+av
